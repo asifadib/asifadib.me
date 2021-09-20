@@ -134,7 +134,8 @@ body {
 }
 
 ::selection {
-  background: #f5df4e;
+  /* background: #f5df4e; */
+  background-color: #277557;
   color: #fff;
   text-shadow: none;
 }
