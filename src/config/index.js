@@ -4,7 +4,7 @@ const config = {
   siteUrl: 'https://shahid.pro/',
   siteLogo: '',
   contentPath: 'contents',
-  headerLogoText: 'sh4hids',
+  headerLogoText: 'Asifadib',
   seoImage: '/images/seo.jpg',
   heroImage: '',
   titleSeparator: '|',
