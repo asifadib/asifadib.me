@@ -1,12 +1,15 @@
-<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0)">
-<path d="M134.3 54.0999L122.927 65.4725L100.164 42.7094L88.3112 78.2674L32 88.1996L100.2 20L134.3 54.0999Z" fill="#1E8BB8"/>
-<path d="M32 88.1997L128.614 71.1588L168.364 110.909L71.7503 127.95L32 88.1997Z" fill="#21AAE2"/>
-<path d="M66.0641 145.009L77.4367 133.636L100.2 156.399L112.052 120.841L168.364 110.909L100.164 179.109L66.0641 145.009Z" fill="#1E8BB8"/>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="16.000000pt" height="16.000000pt" viewBox="0 0 16.000000 16.000000"
+ preserveAspectRatio="xMidYMid meet">
+
+<g transform="translate(0.000000,16.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M4 147 c-3 -8 -4 -43 -2 -78 l3 -64 75 0 75 0 0 75 0 75 -73 3 c-55
+2 -74 -1 -78 -11z m99 -59 c-5 -27 -4 -30 11 -25 12 5 16 3 14 -5 -6 -18 -98
+-22 -99 -6 -4 44 14 68 52 68 27 0 28 -2 22 -32z"/>
+<path d="M62 98 c-17 -17 -15 -38 3 -38 9 0 15 9 15 25 0 29 -1 30 -18 13z"/>
 </g>
-<defs>
-<clipPath id="clip0">
-<rect width="136.364" height="160" fill="white" transform="translate(32 20)"/>
-</clipPath>
-</defs>
 </svg>
